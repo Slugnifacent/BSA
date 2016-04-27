@@ -1,0 +1,57 @@
+function AddMeta 
+{
+	IFS=- 
+	read -ra ADDR <<< "$1"
+
+
+	declare -i tLen=${#ADDR[@]}
+	declare -i tEnd=0
+
+    if [ "$tLen" -gt "3" ]
+	then
+		echo "Improperly formatted filename: $1"
+	 	return
+	fi
+
+	tEnd=$(($tLen - 1))
+
+	newFilename=""
+	description="" 
+
+
+	# use for loop read all nameservers
+	for (( i=0; i<${tLen}; i++ ));
+	do
+	  if [ "$i" -eq "0" ]
+	  then
+	  	newFilename=${ADDR[$i]}
+	  	continue
+	  fi
+
+	  if [ "$i" -eq "$tEnd" ]
+	  then
+	  	newFilename="$newFilename-${ADDR[$i]}"
+	  	continue
+	  fi
+	  description="${ADDR[$i]}"
+	done
+
+	newFilename=$(basename $newFilename)
+
+    # check if name exist in map
+	if [ ${filenamemap+_} ]; 
+	  then
+        # Exist in map. Increment usage
+        filenamemap[$newFilename]=$(( ${filenamemap[$newFilename]} 1 ))
+      else
+        # Doesn't exist. Start Usage at 0
+        filenamemap[$newFilename]=1
+	fi
+
+	superNewFilename="$newFilename_${filenamemap[$newFilename]}"
+	echo "NewFilename $superNewFilename"
+	echo "Description $description"
+}
+exit
+echo "======================================"
+AddMeta "$@"

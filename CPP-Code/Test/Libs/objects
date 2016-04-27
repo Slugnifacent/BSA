@@ -1,0 +1,8 @@
+codecvt_error_category.o
+operations.o
+path.o
+path_traits.o
+portability.o
+unique_path.o
+utf8_codecvt_facet.o
+windows_file_codecvt.o

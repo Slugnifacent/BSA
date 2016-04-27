@@ -1,0 +1,200 @@
+Hey guys,
+ 
+I've uploaded a few sounds to dropbox:
+ 
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/.dropbox
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/Alarms/Alarm 01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/Alarms/Alarm 02.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/Alarms/Alarm 03.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/Alarms/Alarm 04.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/Alarms/Alarm 05.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/Alarms/Alarm 06.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/Alarms/Alarm 07.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/Elevator/Environment/Elevator_Loop_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/Elevator/Environment/Elevator_Start_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/Elevator/Environment/Elevator_Stop_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/Energy Katana/Block/EnergyKatana_Block_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/Energy Katana/Block/EnergyKatana_Counter_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/Energy Katana/Block/EnergyKatana_Deflect_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/Energy Katana/Enabling/EnergyKatana_Sheath_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/Energy Katana/Enabling/EnergyKatana_Unsheath_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/Energy Katana/General/EnergyKatana_BladeOn_Loop_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/Energy Katana/Melee/Katana Impact/EnergyKatana_Impact_Metal_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/Energy Katana/Melee/Katana Impact/EnergyKatana_Impact_Metal_02.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/Energy Katana/Melee/Katana Impact/EnergyKatana_Impact_Metal_03.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/Energy Katana/Melee/Katana Impact/EnergyKatana_Impact_Metal_04.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/Energy Katana/Melee/Katana Impact/EnergyKatana_Impact_Metal_05.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/Energy Katana/Melee/Katana Melee/EnergyKatana_Melee_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/Energy Katana/Melee/Katana Melee/EnergyKatana_Melee_02.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/Energy Katana/Melee/Katana Melee/EnergyKatana_Melee_03.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/Energy Katana/Melee/Katana Touch/EnergyKatana_TouchMetal_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/Energy Katana/Pickup/EnergyKatana_Pickup_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Bow/Firing/Arrow Charging/HighTechBow_ArrowCharging_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Bow/Firing/Arrow Charging/HighTechBow_ArrowCharging_02.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Bow/Firing/Arrow Charging/HighTechBow_ArrowCharging_03.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Bow/Firing/Fire Bow/HighTechBow_Fire_06.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Bow/Firing/Fire Bow/HighTechBow_Fire_07.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Bow/Firing/Fire Bow/HighTechBow_Fire_08.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Bow/Firing/Fire Bow/HighTechBow_Fire_09.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Bow/Firing/Fire Bow/HighTechBow_Fire_10.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Bow/Firing/Fire Charged Bow/HighTechBow_FireChargedBow_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Bow/Firing/Fire Charged Bow/HighTechBow_FireChargedBow_02.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Bow/Firing/Fire Charged Bow/HighTechBow_FireChargedBow_03.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Bow/Firing/Pull Bow/HighTechBow_PullBow_Loop_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Bow/Firing/Ready Arrow/HighTechBow_ReadyArrow_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Bow/Magazine/HighTechBow_ArrowWithinReach_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Bow/Magazine/HighTechBow_GrabArrowFromFloating_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Bow/Magazine/HighTechBow_GrabArrowFromObject_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Bow/Magazine/HighTechBow_GrabArrowFromQuiver_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Bow/Melee/Bow Impact/HighTechBow_BowImpact_Metal_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Bow/Melee/Bow Impact/HighTechBow_BowImpact_Metal_02.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Bow/Melee/Bow Impact/HighTechBow_BowImpact_Metal_03.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Bow/Melee/Bow Impact/HighTechBow_BowImpact_Metal_04.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Bow/Melee/Bow Impact/HighTechBow_BowImpact_Metal_05.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Bow/Melee/Bow Melee/HighTechBow_Melee_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Bow/Pickup/HighTechBow_Pickup_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Bow/Projectile/Arrow Impact/Metal/HighTechBow_ArrowImpactMetal_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Bow/Projectile/Arrow Impact/Metal/HighTechBow_ArrowImpactMetal_02.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Bow/Projectile/Arrow Impact/Metal/HighTechBow_ArrowImpactMetal_03.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Bow/Projectile/Arrow Impact/Metal/HighTechBow_ArrowImpactMetal_04.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Bow/Projectile/Arrow Impact/Metal/HighTechBow_ArrowImpactMetal_05.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Bow/Projectile/Charged Arrow/HighTechBow_ChargedArrowFlight_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Bow/Projectile/Charged Arrow/HighTechBow_ChargedArrowFlight_02.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Bow/Projectile/Charged Arrow/HighTechBow_ChargedArrowFlight_03.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Bow/Projectile/HighTechBow_ArrowFlight_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Ammo States/HighTechPistol_NoAmmoFire_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Firing/Casing Impact/Ground/HighTechPistol_CasingImpact_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Firing/Ejects/HighTechPistol_CasingEject_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Firing/Ejects/HighTechPistol_MagazineEject_02.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Firing/Fire Pistol/HighTechPistol_Fire_02.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Firing/Fire Pistol/HighTechPistol_Fire_03.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Firing/Fire Pistol/HighTechPistol_Fire_04.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Firing/Fire Pistol/HighTechPistol_Fire_05.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Firing/Fire Pistol/HighTechPistol_Fire_06.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Melee/Pistol Impact/HighTechPistol_Melee_PistolImpact_Metal_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Melee/Pistol Impact/HighTechPistol_Melee_PistolImpact_Metal_02.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Melee/Pistol Impact/HighTechPistol_Melee_PistolImpact_Metal_03.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Melee/Pistol Impact/HighTechPistol_Melee_PistolImpact_Metal_04.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Melee/Pistol Impact/HighTechPistol_Melee_PistolImpact_Metal_05.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Melee/Pistol Impact/HighTechPistol_Melee_PistolImpact_Metal_06.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Melee/Pistol Impact/HighTechPistol_Melee_PistolImpact_Metal_07.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Melee/Pistol Melee/HighTechPistol_Melee_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Pickup/HighTechPistol_PickUp_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Projectile/Bullet Impact/Computer/HighTechPistol_ComputerImpact_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Projectile/Bullet Impact/Computer/HighTechPistol_ComputerImpact_02.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Projectile/Bullet Impact/Computer/HighTechPistol_ComputerImpact_03.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Projectile/Bullet Impact/Computer/HighTechPistol_ComputerImpact_04.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Projectile/Bullet Impact/Computer/HighTechPistol_ComputerImpact_05.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Projectile/Bullet Impact/Glass/HighTechPistol_GlassImpact_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Projectile/Bullet Impact/Glass/HighTechPistol_GlassImpact_02.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Projectile/Bullet Impact/Glass/HighTechPistol_GlassImpact_03.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Projectile/Bullet Impact/Glass/HighTechPistol_GlassImpact_04.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Projectile/Bullet Impact/Glass/HighTechPistol_GlassImpact_05.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Projectile/Bullet Impact/Metal/Thick/HighTechPistol_ThickMetalImpact_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Projectile/Bullet Impact/Metal/Thick/HighTechPistol_ThickMetalImpact_02.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Projectile/Bullet Impact/Metal/Thin/HighTechPistol_ThinMetalImpact_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Projectile/Bullet Impact/Metal/Thin/HighTechPistol_ThinMetalImpact_02.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Projectile/Bullet Impact/Metal/Thin/HighTechPistol_ThinMetalImpact_03.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Projectile/Bullet Impact/Metal/Thin/HighTechPistol_ThinMetalImpact_04.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Projectile/Bullet Impact/Metal/Thin/HighTechPistol_ThinMetalImpact_05.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Projectile/Bullet Impact/Wood/HighTechPistol_WoodImpact_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Projectile/Bullet Impact/Wood/HighTechPistol_WoodImpact_02.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Projectile/Bullet Impact/Wood/HighTechPistol_WoodImpact_03.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Projectile/Bullet Impact/Wood/HighTechPistol_WoodImpact_04.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Projectile/Bullet Impact/Wood/HighTechPistol_WoodImpact_05.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Projectile/Bullet Pass By/HighTechPistol_BulletPassBy_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Projectile/Bullet Pass By/HighTechPistol_BulletPassBy_02.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Projectile/Bullet Pass By/HighTechPistol_BulletPassBy_03.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Projectile/Bullet Pass By/HighTechPistol_BulletPassBy_04.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Projectile/Bullet Pass By/HighTechPistol_BulletPassBy_05.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Projectile/Bullet Pass By/HighTechPistol_BulletPassBy_06.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Pistol/Reload/HighTechPistol_Reload_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Shotgun/Ammo States/HighTechShotgun_NoAmmoFire_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Shotgun/Firing/Cocking/Backward/HighTechShotgun_ShotgunCocking_Backward_Loop_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Shotgun/Firing/Cocking/Backward/HighTechShotgun_ShotgunCocking_Backwards_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Shotgun/Firing/Cocking/Forward/HighTechShotgun_ShotgunCocking_Forward_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Shotgun/Firing/Cocking/Forward/HighTechShotgun_ShotgunCocking_Forward_Loop_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Shotgun/Firing/Fire Shotgun/HighTechShotgun_FireShotgun_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Shotgun/Firing/Fire Shotgun/HighTechShotgun_FireShotgun_02.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Shotgun/Firing/Fire Shotgun/HighTechShotgun_FireShotgun_03.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Shotgun/Firing/Fire Shotgun/HighTechShotgun_FireShotgun_04.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Shotgun/Firing/Fire Shotgun/HighTechShotgun_FireShotgun_05.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Shotgun/Firing/HighTechShotgun_CasingEject_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Shotgun/Firing/HighTechShotgun_CasingImpact_Ground_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Shotgun/Firing/HighTechShotgun_GrenadeLaunch_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Shotgun/Firing/HighTechShotgun_MagazineEject_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Shotgun/Melee/HighTechShotgun_ShotgunMelee_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Shotgun/Pickup/HighTechShotgun_Pickup_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Shotgun/Projectile/Grenade/HighTechShotgun_GrenadeExplosion_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Shotgun/Projectile/Grenade Impact/HighTechShotgun_GrenadeImpact_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Shotgun/Projectile/Grenade Impact/HighTechShotgun_GrenadeImpact_02.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Shotgun/Projectile/Grenade Impact/HighTechShotgun_GrenadeImpact_03.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Shotgun/Projectile/Grenade Impact/HighTechShotgun_GrenadeImpact_04.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Shotgun/Projectile/Grenade Impact/HighTechShotgun_GrenadeImpact_05.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Shotgun/Projectile/Grenade Travel/HighTechShotgun_GrenadeTravel_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Shotgun/Projectile/Shot/HighTechShotgun_Shotflight_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Shotgun/Projectile/Shot Impact/HighTechShotgun_ShotImpact_Metal_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Shotgun/Projectile/Shot Impact/HighTechShotgun_ShotImpact_Metal_02.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Shotgun/Projectile/Shot Impact/HighTechShotgun_ShotImpact_Metal_03.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Shotgun/Projectile/Shot Impact/HighTechShotgun_ShotImpact_Metal_04.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Shotgun/Projectile/Shot Impact/HighTechShotgun_ShotImpact_Metal_05.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Shotgun/Projectile/Shotgun Impact/HighTechShotgun_ShotgunImpact_Metal_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Shotgun/Projectile/Shotgun Impact/HighTechShotgun_ShotgunImpact_Metal_02.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Shotgun/Projectile/Shotgun Impact/HighTechShotgun_ShotgunImpact_Metal_03.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Shotgun/Projectile/Shotgun Impact/HighTechShotgun_ShotgunImpact_Metal_04.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Shotgun/Projectile/Shotgun Impact/HighTechShotgun_ShotgunImpact_Metal_05.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/High Tech Shotgun/Reload Magazine/HighTechShotgun_ReloadMagazine_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/Pod/Environment/Pod_Rise_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/Pod/Pod Door Open and Close/PodDoor_CloseAndDescend_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/Pod/Pod Door Open and Close/PodDoor_Open_02.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/Shared Assets/Ammo States/SharedAssets_LowAmmoIndicator_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/Shared Assets/Ammo States/SharedAssets_OutOfAmmoIndicator_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/Shared Assets/Despawn/SharedAssets_DespawnWeapon_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/Shared Assets/Pickup & Holster/SharedAssets_WithinReach_Loop_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Audio Assets/Shared Assets/Spawn/SharedAssets_SpawnWeapon_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/From Survios/New Videos from Survios/bow_chargefire_ingame.m2t
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/From Survios/New Videos from Survios/bow_regularfire_ingame.m2t
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/From Survios/New Videos from Survios/Converted to h 264/bow_chargefire_ingame.mp4
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/From Survios/New Videos from Survios/Converted to h 264/bow_regularfire_ingame.mp4
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/From Survios/New Videos from Survios/Converted to h 264/katana_extendretract_ingame.mp4
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/From Survios/New Videos from Survios/Converted to h 264/piston_fire_ingame.mp4
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/From Survios/New Videos from Survios/Converted to h 264/pods_updown_openexit_ingame.mp4
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/From Survios/New Videos from Survios/Converted to h 264/shotgun_pump_ingame.mp4
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/From Survios/New Videos from Survios/katana_extendretract_ingame.m2t
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/From Survios/New Videos from Survios/piston_fire_ingame.m2t
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/From Survios/New Videos from Survios/pods_updown_openexit_ingame.m2t
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/From Survios/New Videos from Survios/shotgun_pump_ingame.m2t
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/From Survios/Videos from Survios/Converted Video/Botpod Opening 01-1-20.mov
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/From Survios/Videos from Survios/Converted Video/Botpod Opening 02-2-20.mov
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/From Survios/Videos from Survios/Converted Video/Botpod Opening 03-3-20.mov
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/From Survios/Videos from Survios/Converted Video/Light Katana Extend-4-20.mov
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/From Survios/Videos from Survios/Converted Video/Light Katana Retract-6-20.mov
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/From Survios/Videos from Survios/Converted Video/Pistol Fire Fourthspeed 01-8-20.mov
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/From Survios/Videos from Survios/Converted Video/Pistol Fire Fourthspeed 02-9-20.mov
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/From Survios/Videos from Survios/Converted Video/Pistol Fire Fourthspeed 03-10-20.mov
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/From Survios/Videos from Survios/Converted Video/Pistol Fire Fullspeed 01-11-20.mov
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/From Survios/Videos from Survios/Converted Video/Pistol Fire Fullspeed 02-12-20.mov
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/From Survios/Videos from Survios/Converted Video/Pistol Fire Fullspeed 03-13-20.mov
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/From Survios/Videos from Survios/RD_Anims/Botpod Opening 01-1-20.m4v
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/From Survios/Videos from Survios/RD_Anims/Botpod Opening 02-2-20.m4v
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/From Survios/Videos from Survios/RD_Anims/Botpod Opening 03-3-20.m4v
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/From Survios/Videos from Survios/RD_Anims/Light Katana Extend-4-20.m4v
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/From Survios/Videos from Survios/RD_Anims/Light Katana Retract-6-20.m4v
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/From Survios/Videos from Survios/RD_Anims/Pistol Fire Fourthspeed 01-8-20.m4v
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/From Survios/Videos from Survios/RD_Anims/Pistol Fire Fourthspeed 02-9-20.m4v
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/From Survios/Videos from Survios/RD_Anims/Pistol Fire Fourthspeed 03-10-20.m4v
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/From Survios/Videos from Survios/RD_Anims/Pistol Fire Fullspeed 01-11-20.m4v
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/From Survios/Videos from Survios/RD_Anims/Pistol Fire Fullspeed 02-12-20.m4v
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/From Survios/Videos from Survios/RD_Anims/Pistol Fire Fullspeed 03-13-20.m4v
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Icon
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Old Versions/HighTechBow_Fire_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Old Versions/HighTechBow_Fire_02.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Old Versions/HighTechBow_Fire_03.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Old Versions/HighTechBow_Fire_04.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Old Versions/HighTechBow_Fire_05.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Old Versions/HighTechPistol_Fire_01.wav
+/Users/bijan/Dropbox/Hard Data Audio DropBox Folder/Old Versions/PodDoor_Open_01.wav
+ 
+The spreadsheet has been updated to reflect these changes as well.
+ 
+Cheers.
